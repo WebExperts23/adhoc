@@ -1,0 +1,618 @@
+# Copyright (C) 2022 GrandPlugins
+# This file is distributed under the same license as the WooCommerce Coming Soon Products [[GrandPlugins]] plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Coming Soon Products [[GrandPlugins]] 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gpls-wcsamm-coming-soon-products-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-01T09:25:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: gpls-wcsamm-coming-soon-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Coming Soon Products [[GrandPlugins]]"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allow Coming Soon mode for WooCommerce Products."
+msgstr ""
+
+#. Author of the plugin
+msgid "GrandPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grandplugins.com"
+msgstr ""
+
+#: gpls-wcsamm-woo-coming-soon-products-for-woocommerce.php:104
+msgid "WooCommerce plugin is required in order to activate the plugin"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:198
+msgid "You are about to send Coming Soon End Email to selected list. Proceed?"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:199
+msgid "Selected emails list will be cleared, Proceed?"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:216
+#: includes/class-coming-soon.php:142
+#: includes/variation/class-coming-soon-variation-backend.php:237
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:244
+#: includes/variation/class-coming-soon-variation-backend.php:248
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:245
+#: includes/variation/class-coming-soon-variation-backend.php:250
+msgid "Enable coming soon mode"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:252
+#: includes/class-coming-soon-gutenberg.php:164
+#: includes/class-coming-soon.php:176
+#: includes/variation/class-coming-soon-variation-backend.php:258
+msgid "Coming Soon Text"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:254
+#: includes/variation/class-coming-soon-variation-backend.php:260
+msgid "It will be shown in single product page after product short description"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:262
+#: includes/variation/class-coming-soon-variation-backend.php:270
+msgid "Arrival Time"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:263
+#: includes/variation/class-coming-soon-variation-backend.php:271
+msgid "Remaining time until arrival is calculated based on the site's timezone"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:271
+#: includes/variation/class-coming-soon-variation-backend.php:280
+msgid "Show Countdown"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:272
+#: includes/variation/class-coming-soon-variation-backend.php:282
+msgid "Show the arrival time countdown"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:279
+#: includes/variation/class-coming-soon-variation-backend.php:290
+msgid "Hide Price"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:280
+#: includes/variation/class-coming-soon-variation-backend.php:292
+msgid "Hide the product price"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:287
+#: includes/variation/class-coming-soon-variation-backend.php:300
+msgid "Disable Backorders"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:288
+msgid "Disable purchasing the product in backorder."
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:295
+#: includes/variation/class-coming-soon-variation-backend.php:310
+msgid "Auto Enable"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:296
+#: includes/variation/class-coming-soon-variation-backend.php:312
+msgid "Auto enable the product for purchase when the arrival time is over [ requires \"Arrival Time\" ]"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:303
+#: includes/variation/class-coming-soon-variation-backend.php:320
+msgid "Auto Email"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:304
+#: includes/variation/class-coming-soon-variation-backend.php:322
+msgid "Send email automatically when the product arrival time is over [ requires \"Arrival Time\" and \"Auto Enable\" ]"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:315
+#: includes/variation/class-coming-soon-variation-backend.php:334
+msgid "Show Subscription"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:316
+#: includes/variation/class-coming-soon-variation-backend.php:336
+msgid "Display the subscription form "
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:323
+#: includes/variation/class-coming-soon-variation-backend.php:344
+msgid "Custom Title"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:324
+#: includes/variation/class-coming-soon-variation-backend.php:346
+msgid "Custom Title for the Subscription Form"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:331
+#: includes/variation/class-coming-soon-variation-backend.php:354
+msgid "Custom Form Shortcode"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:332
+#: includes/variation/class-coming-soon-variation-backend.php:356
+msgid "Add custom subscription form shortcode. leave it blank for using the default form"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:339
+#: includes/variation/class-coming-soon-variation-backend.php:363
+msgid "Coming Soon Ended Email"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:345
+#: includes/variation/class-coming-soon-variation-backend.php:370
+msgid "Email Subject"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:346
+#: includes/variation/class-coming-soon-variation-backend.php:372
+msgid "Custom email subject for this product, available placeholders: {site_title}, {site_url}, {site_address}, {product_title}, {product_image}, {product_stock}, {product_link_start}, {product_link_end}"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:355
+#: includes/variation/class-coming-soon-variation-backend.php:381
+msgid "Email Heading"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:356
+#: includes/variation/class-coming-soon-variation-backend.php:383
+msgid "Custom email heading for this product, available placeholders: {site_title}, {site_url}, {site_address}, {product_title}, {product_image}, {product_stock}, {product_link_start}, {product_link_end}"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:364
+#: includes/variation/class-coming-soon-variation-backend.php:392
+msgid "Email Body"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:367
+#: includes/variation/class-coming-soon-variation-backend.php:394
+msgid "Custom email Body for this product, available placeholders: {site_title}, {site_url}, {site_address}, {product_title}, {product_image}, {product_stock}, {product_link_start}, {product_link_end}"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:477
+#: includes/class-coming-soon-gutenberg.php:150
+#: includes/settings.php:97
+msgid "Coming Soon Products"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:172
+msgid "[Coming Soon product available] emails have been sent successfully for "
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:198
+msgid "[Coming Soon product available] emails are being sent in background for "
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:258
+msgid "Coming Soon Emails"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:297
+msgid "Select Product/Variation"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:300
+msgid "Main product"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:322
+msgid "Send Test Email"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:327
+msgid "Send Emails"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:328
+msgid "Export List"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:329
+msgid "Clear List"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:332
+msgid "Deleting selected emails... "
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:333
+msgid "emails are being sent in background... "
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:334
+msgid "All Emails have been sent successfully!"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:342
+msgid "Last Sent: "
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:351
+msgid "No emails yet!"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:366
+msgid "No emails yet"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:411
+msgid "Please, Select a product/variation."
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:420
+msgid "The email has been sent successfully!"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:427
+#: includes/class-coming-soon-emails.php:482
+#: includes/class-coming-soon-emails.php:515
+#: includes/class-coming-soon-emails.php:552
+#: includes/class-coming-soon-emails.php:873
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:450
+msgid "Please, Select which email to be sent."
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:467
+msgid "Emails are being sent in a background process"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:474
+msgid "Subscription list is empty!"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:508
+msgid "List has been cleared successfully!"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:545
+msgid "Email has been saved successfully!"
+msgstr ""
+
+#: includes/class-coming-soon-emails.php:627
+#: includes/class-coming-soon-emails.php:701
+#: includes/class-coming-soon-frontend.php:512
+#: includes/settings.php:469
+msgid "%s"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:94
+msgid "Please enter an email address"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:96
+#: includes/settings.php:251
+#: templates/settings/countdown-settings.php:45
+msgid "Days"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:97
+#: includes/settings.php:252
+#: templates/settings/countdown-settings.php:95
+msgid "Hours"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:98
+#: includes/settings.php:253
+#: templates/settings/countdown-settings.php:145
+msgid "Minutes"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:99
+#: includes/settings.php:254
+#: templates/settings/countdown-settings.php:195
+msgid "Seconds"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:513
+msgid "Your Email Address..."
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:515
+msgid "Submit"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:151
+msgid "Layout"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:152
+msgid "Content"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:155
+msgid "Display a grid of coming soon products"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:156
+msgid "coming soon"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:157
+msgid "Media"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:158
+msgid "Columns"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:159
+msgid "Rows"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:160
+msgid "Product Title"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:161
+msgid "Product Price"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:162
+msgid "Product Rating"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:163
+msgid "Add to Cart Button"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:165
+#: templates/settings/countdown-settings.php:18
+msgid "Coming Soon Countdown"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:166
+msgid "Coming Soon Badge"
+msgstr ""
+
+#: includes/class-coming-soon-gutenberg.php:169
+msgid "The countdown will not be shown here in editor if enabled due to the gutenberg editor limitations, but it will be shown on frontend"
+msgstr ""
+
+#: includes/class-coming-soon.php:177
+#: templates/settings/subscribe-settings.php:16
+msgid "Subscription Form Title"
+msgstr ""
+
+#: includes/class-coming-soon.php:178
+msgid "Custom Email Subject"
+msgstr ""
+
+#: includes/class-coming-soon.php:179
+msgid "Custom Email Heading"
+msgstr ""
+
+#: includes/class-coming-soon.php:180
+msgid "Custom Email Body"
+msgstr ""
+
+#: includes/class-wc-email-coming-soon-mode.php:110
+msgid "The default email subject unless a custom subject is added in the product page. "
+msgstr ""
+
+#: includes/class-wc-email-coming-soon-mode.php:111
+msgid "The default email heading unless a custom subject is added in the product page. "
+msgstr ""
+
+#: includes/class-wc-email-coming-soon-mode.php:185
+msgid "[{product_title}] product is available now!"
+msgstr ""
+
+#: includes/class-wc-email-coming-soon-mode.php:195
+msgid "The wait is over"
+msgstr ""
+
+#: includes/settings.php:102
+msgid "Badge"
+msgstr ""
+
+#: includes/settings.php:106
+msgid "Countdown"
+msgstr ""
+
+#: includes/settings.php:110
+msgid "Subscribe"
+msgstr ""
+
+#: includes/settings.php:159
+msgid "Get notified when the product is available!"
+msgstr ""
+
+#: includes/settings.php:160
+msgid "We will inform you when the product is available!"
+msgstr ""
+
+#: includes/settings.php:249
+msgid "Only images are allowed"
+msgstr ""
+
+#: includes/settings.php:299
+msgid "no file uploaded!"
+msgstr ""
+
+#: includes/settings.php:334
+msgid "file upload is failed!"
+msgstr ""
+
+#: includes/settings.php:345
+msgid "file already exists!"
+msgstr ""
+
+#: includes/settings.php:379
+msgid "file is empty!"
+msgstr ""
+
+#: includes/settings.php:392
+msgid "file type is invalid!"
+msgstr ""
+
+#: includes/settings.php:407
+msgid "The uploaded file could not be moved to %s."
+msgstr ""
+
+#: includes/settings.php:424
+msgid "Badge icons is added successfully!"
+msgstr ""
+
+#: includes/settings.php:711
+msgid "Default WooCommerce Template"
+msgstr ""
+
+#: includes/settings.php:715
+msgid "Template 1"
+msgstr ""
+
+#: includes/variation/class-coming-soon-variation-backend.php:302
+msgid "Disable purchasing the product in backorder"
+msgstr ""
+
+#: templates/emails/default-body.php:5
+msgid "is available for purchase"
+msgstr ""
+
+#: templates/emails/default-body.php:12
+msgid "Shop Now"
+msgstr ""
+
+#: templates/settings/badge-settings.php:9
+msgid "Badge Status"
+msgstr ""
+
+#: templates/settings/badge-settings.php:14
+msgid "Enable the Badge"
+msgstr ""
+
+#: templates/settings/badge-settings.php:21
+msgid "Badge Icon"
+msgstr ""
+
+#: templates/settings/badge-settings.php:30
+msgid "Available Icons"
+msgstr ""
+
+#: templates/settings/badge-settings.php:56
+msgid "Dimension"
+msgstr ""
+
+#: templates/settings/badge-settings.php:61
+msgid "Width"
+msgstr ""
+
+#: templates/settings/badge-settings.php:65
+msgid "Height"
+msgstr ""
+
+#: templates/settings/badge-settings.php:74
+msgid "Padding"
+msgstr ""
+
+#: templates/settings/badge-settings.php:79
+msgid "Left"
+msgstr ""
+
+#: templates/settings/badge-settings.php:83
+msgid "Top"
+msgstr ""
+
+#: templates/settings/badge-settings.php:92
+msgid "Angle"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:11
+msgid "Loop Settings"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:12
+msgid "Settings for countdown on loop pages like shop, categories, tags pages, etc..."
+msgstr ""
+
+#: templates/settings/countdown-settings.php:22
+msgid "Show the coming soon countdown on loop pages"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:30
+msgid "Show Coming Soon Text"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:34
+msgid "Show the product coming soon text on loop pages"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:50
+#: templates/settings/countdown-settings.php:100
+#: templates/settings/countdown-settings.php:150
+#: templates/settings/countdown-settings.php:200
+msgid "Title Color"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:61
+#: templates/settings/countdown-settings.php:111
+#: templates/settings/countdown-settings.php:161
+#: templates/settings/countdown-settings.php:211
+msgid "Front Color"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:72
+#: templates/settings/countdown-settings.php:122
+#: templates/settings/countdown-settings.php:172
+#: templates/settings/countdown-settings.php:222
+msgid "Back Color"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:83
+#: templates/settings/countdown-settings.php:133
+#: templates/settings/countdown-settings.php:183
+#: templates/settings/countdown-settings.php:233
+msgid "Divider Color"
+msgstr ""
+
+#: templates/settings/email-settings.php:17
+msgid "Email Template"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:27
+msgid "After Submit Text"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:28
+msgid "This text will appear after the Subscription form is submitted"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:39
+msgid "Submit Button Background"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:50
+msgid "Submit Button Color"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:61
+msgid "Consent Text"
+msgstr ""

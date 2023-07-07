@@ -1,0 +1,37 @@
+<wpml-config>
+  <custom-fields>
+    <custom-field action="copy" label="Coming Soon Status" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-status</custom-field>
+    <custom-field action="translate" style="visual" label="Coming Soon Text" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-coming_soon_text</custom-field>
+    <custom-field action="translate" style="line" label="Custom Subscription Form Title" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-custom_subscription_title</custom-field>
+    <custom-field action="translate" style="line" label="Custom Email Subject" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-custom_email_subject</custom-field>
+    <custom-field action="translate" style="line" label="Custom Email Heading" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-custom_email_heading</custom-field>
+    <custom-field action="translate" style="visual" label="Custom Email Body" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-custom_email_body</custom-field>
+    <custom-field action="copy" label="Hide Price" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-hide_price</custom-field>
+    <custom-field action="copy" label="Disable Backorders" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-disable_backorders</custom-field>
+    <custom-field action="copy" label="Show Countdown Timer" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-show_countdown</custom-field>
+    <custom-field action="copy" label="Arrival Time" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-arrival_time</custom-field>
+    <custom-field action="copy" label="Auto Enable" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-auto_enable</custom-field>
+    <custom-field action="copy" label="Auto Email" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-auto_email</custom-field>
+    <custom-field action="copy" label="Show Subscription Form" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-show_subscription_form</custom-field>
+    <custom-field action="copy" label="Custom Subscription Form" group="Coming Soon Settings">gpls-wcsamm-coming-soon-for-woocommerce-custom_subscription_form</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="woocommerce_gpls-wcsamm-coming-soon-for-woocommerce-coming-soon-email-class_settings" >
+      <key name="subject" />
+      <key name="heading" />
+      <key name="additional_content" />
+    </key>
+    <key name="gpls-wcsamm-coming-soon-for-woocommerce-main-settings" >
+      <key name="general" >
+        <key name="coming_soon_text" />
+      </key>
+      <key name="subscribe" >
+        <key name="subscribe_title" />
+        <key name="subscribe_placeholder" />
+        <key name="post_subscribe_title" />
+        <key name="submit_button_text" />
+        <key name="consent_text" />
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>

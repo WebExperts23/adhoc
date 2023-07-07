@@ -1,0 +1,40 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * acumin-pro-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9acb04
+ * acumin-pro-extra-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9acb16
+ * six-hands-chalk:
+ *   - http://typekit.com/eulas/00000000000000007735cca2
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-01-12 23:19:22 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=amm0iio&ht=tk&f=26002.26023.43042&a=3385698&app=typekit&e=css");
+
+@font-face {
+font-family:"acumin-pro-condensed";
+src:url("https://use.typekit.net/af/44ed7f/00000000000000003b9acb04/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/44ed7f/00000000000000003b9acb04/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/44ed7f/00000000000000003b9acb04/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro-extra-condensed";
+src:url("https://use.typekit.net/af/ef2640/00000000000000003b9acb16/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/ef2640/00000000000000003b9acb16/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/ef2640/00000000000000003b9acb16/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"six-hands-chalk";
+src:url("https://use.typekit.net/af/dc7542/00000000000000007735cca2/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/dc7542/00000000000000007735cca2/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/dc7542/00000000000000007735cca2/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-acumin-pro-condensed { font-family: "acumin-pro-condensed",sans-serif; }
+.tk-acumin-pro-extra-condensed { font-family: "acumin-pro-extra-condensed",sans-serif; }
+.tk-six-hands-chalk { font-family: "six-hands-chalk",sans-serif; }

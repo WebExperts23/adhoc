@@ -1,0 +1,479 @@
+# Translation of Themes - Hello Elementor in English (UK)
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-08 13:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-08 13:40+0000\n"
+"Last-Translator: \n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"Language-Team: English (UK)"
+
+#. HTML arrow
+#: ../hello-elementor/template-parts/archive.php:46
+#: ../hello-elementor/template-parts/search.php:47
+msgid "%s older"
+msgstr "%s older"
+
+#. Description of the theme
+#, fuzzy
+#| msgid "A plain-vanilla & lightweight theme for Elementor page builder"
+msgid "A plain-vanilla &amp; lightweight theme for Elementor page builder"
+msgstr "A plain vanilla & lightweight theme for Elementor Page Builder"
+
+#: ../hello-elementor/includes/admin-functions.php:40
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:59
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:62
+msgid "Activate Elementor"
+msgstr "Activate Elementor"
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:78
+msgid "Activate Now"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-footer.php:433
+msgid "All rights reserved"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:179
+#: ../hello-elementor/includes/settings/settings-footer.php:183
+msgid "Background"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:101
+#: ../hello-elementor/includes/settings/settings-footer.php:115
+msgid "Boxed"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:424
+msgid "Breakpoint"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:88
+#: ../hello-elementor/includes/settings/settings-footer.php:102
+msgid "Centered"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:400
+#: ../hello-elementor/includes/settings/settings-footer.php:383
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:444
+#: ../hello-elementor/includes/settings/settings-footer.php:391
+msgid "Color"
+msgstr ""
+
+#: ../hello-elementor/comments.php:67
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#. 1: number of comments
+#: ../hello-elementor/comments.php:31
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "%1$s Response"
+msgstr[1] "%1$s Responses"
+
+#: ../hello-elementor/comments.php:27
+msgctxt "comments title"
+msgid "One Response"
+msgstr "One Response"
+
+#: ../hello-elementor/includes/settings/settings-header.php:113
+#: ../hello-elementor/includes/settings/settings-footer.php:127
+msgid "Content Width"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-footer.php:86
+#: ../hello-elementor/includes/settings/settings-footer.php:415
+msgid "Copyright"
+msgstr ""
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:43
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:60
+msgid "Create a cross-site Header and Footer using Elementor & Hello theme."
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-footer.php:488
+msgid "Create a custom footer with multiple options"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-footer.php:504
+msgid "Create a custom footer with the new Theme Builder"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:507
+msgid "Create a custom header with multiple options"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:523
+msgid "Create a custom header with the new Theme Builder"
+msgstr ""
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:76
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:84
+msgid "Create cross-site Header and Footer using Elementor & Hello theme."
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-footer.php:506
+msgid "Create Footer"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:525
+msgid "Create Header"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:86
+#: ../hello-elementor/includes/settings/settings-footer.php:100
+msgid "Default"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:413
+msgid "Dropdown"
+msgstr ""
+
+#. Author of the theme
+msgid "Elementor Team"
+msgstr "Elementor Team"
+
+#: ../hello-elementor/functions.php:37
+#: ../hello-elementor/includes/settings/settings-footer.php:21
+#: ../hello-elementor/includes/settings/settings-footer.php:42
+msgid "Footer"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:102
+#: ../hello-elementor/includes/settings/settings-footer.php:116
+msgid "Full Width"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:141
+#: ../hello-elementor/includes/settings/settings-footer.php:155
+msgid "Gap"
+msgstr ""
+
+#: ../hello-elementor/includes/admin-functions.php:136
+#, fuzzy
+#| msgid "Hello Elementor"
+msgid "Get Elementor"
+msgstr "Hello Elementor"
+
+#: ../hello-elementor/includes/settings/settings-header.php:379
+#: ../hello-elementor/includes/settings/settings-footer.php:362
+#, php-format
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:224
+#: ../hello-elementor/includes/settings/settings-footer.php:221
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:270
+#: ../hello-elementor/includes/settings/settings-header.php:283
+#: ../hello-elementor/includes/settings/settings-header.php:342
+#: ../hello-elementor/includes/settings/settings-footer.php:280
+#: ../hello-elementor/includes/settings/settings-footer.php:332
+#, php-format
+msgid ""
+"Go to <a href=\"%s\">Site Identity</a> to manage your site's title and "
+"tagline"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:392
+#: ../hello-elementor/includes/settings/settings-footer.php:375
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: ../hello-elementor/functions.php:36
+#: ../hello-elementor/includes/settings/settings-header.php:23
+#: ../hello-elementor/includes/settings/settings-header.php:43
+msgid "Header"
+msgstr ""
+
+#: ../hello-elementor/includes/customizer-functions.php:19
+msgid "Header &amp; Footer"
+msgstr ""
+
+#. Name of the theme
+msgid "Hello Elementor Child"
+msgstr ""
+
+#: ../hello-elementor/includes/elementor-functions.php:207
+msgid "Hello Theme Header & Footer"
+msgstr ""
+
+#: ../hello-elementor/includes/admin-functions.php:38
+msgid ""
+"Hello theme is a lightweight starter theme designed to work perfectly with "
+"Elementor Page Builder plugin."
+msgstr ""
+"Hello theme is a lightweight starter theme designed to work perfectly with "
+"the Elementor Page Builder plugin."
+
+#: ../hello-elementor/includes/admin-functions.php:47
+msgid ""
+"Hello theme is a lightweight starter theme. We recommend you use it together "
+"with Elementor Page Builder plugin, they work perfectly together!"
+msgstr ""
+"Hello theme is a lightweight starter theme. We recommend you use it together "
+"with the Elementor Page Builder plugin, they work perfectly together!"
+
+#: ../hello-elementor/includes/settings/settings-header.php:54
+#: ../hello-elementor/includes/settings/settings-header.php:65
+#: ../hello-elementor/includes/settings/settings-header.php:76
+#: ../hello-elementor/includes/settings/settings-footer.php:53
+#: ../hello-elementor/includes/settings/settings-footer.php:65
+#: ../hello-elementor/includes/settings/settings-footer.php:77
+#: ../hello-elementor/includes/settings/settings-footer.php:89
+msgid "Hide"
+msgstr ""
+
+#: ../hello-elementor/template-parts/dynamic-footer.php:33
+#: ../hello-elementor/template-parts/dynamic-header.php:36
+#: ../hello-elementor/template-parts/header.php:29
+msgid "Home"
+msgstr "Home"
+
+#: ../hello-elementor/includes/settings/settings-header.php:412
+msgid "Horizontal"
+msgstr ""
+
+#. Author URI of the theme
+msgid ""
+"https://elementor.com/?utm_source=wp-themes&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+"https://elementor.com/?utm_source=wp-themes&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+
+#. URI of the theme
+msgid ""
+"https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+"https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-"
+"uri&utm_medium=wp-dash"
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:54
+msgid "Install &amp; Activate"
+msgstr ""
+
+#: ../hello-elementor/includes/admin-functions.php:49
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:42
+msgid "Install Elementor"
+msgstr "Install Elementor"
+
+#: ../hello-elementor/includes/settings/settings-header.php:87
+#: ../hello-elementor/includes/settings/settings-footer.php:101
+msgid "Inverted"
+msgstr ""
+
+#: ../hello-elementor/template-parts/404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr "It looks like nothing was found at this location."
+
+#: ../hello-elementor/template-parts/search.php:35
+msgid "It seems we can't find what you're looking for."
+msgstr "It seems we can't find what you're looking for."
+
+#: ../hello-elementor/includes/settings/settings-header.php:84
+#: ../hello-elementor/includes/settings/settings-footer.php:98
+msgid "Layout"
+msgstr ""
+
+#: ../hello-elementor/includes/admin-functions.php:142
+msgid "Learn more about Elementor"
+msgstr "Learn more about Elementor"
+
+#: ../hello-elementor/includes/settings/settings-header.php:212
+#: ../hello-elementor/includes/settings/settings-footer.php:209
+msgid "Logo"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:223
+#: ../hello-elementor/includes/settings/settings-footer.php:220
+msgid "Logo Width"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:73
+#: ../hello-elementor/includes/settings/settings-header.php:353
+#: ../hello-elementor/includes/settings/settings-header.php:388
+#: ../hello-elementor/includes/settings/settings-footer.php:74
+#: ../hello-elementor/includes/settings/settings-footer.php:343
+#: ../hello-elementor/includes/settings/settings-footer.php:371
+msgid "Menu"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:408
+msgid "Menu Layout"
+msgstr ""
+
+#. %d: Breakpoint number.
+#: ../hello-elementor/includes/settings/settings-header.php:429
+#, php-format
+msgid "Mobile (< %dpx)"
+msgstr ""
+
+#. HTML arrow
+#: ../hello-elementor/template-parts/archive.php:48
+#: ../hello-elementor/template-parts/search.php:49
+msgid "newer %s"
+msgstr "newer %s"
+
+#: ../hello-elementor/includes/settings/settings-header.php:432
+msgid "None"
+msgstr ""
+
+#: ../hello-elementor/template-parts/search.php:19
+msgid "Search results for: "
+msgstr "Results for: "
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:75
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:83
+msgid "Set Your Header &amp; Footer"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:53
+#: ../hello-elementor/includes/settings/settings-header.php:64
+#: ../hello-elementor/includes/settings/settings-header.php:75
+#: ../hello-elementor/includes/settings/settings-footer.php:52
+#: ../hello-elementor/includes/settings/settings-footer.php:64
+#: ../hello-elementor/includes/settings/settings-footer.php:76
+#: ../hello-elementor/includes/settings/settings-footer.php:88
+msgid "Show"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:51
+#: ../hello-elementor/includes/settings/settings-header.php:191
+#: ../hello-elementor/includes/settings/settings-footer.php:50
+#: ../hello-elementor/includes/settings/settings-footer.php:195
+msgid "Site Logo"
+msgstr ""
+
+#: ../hello-elementor/header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:86
+msgid "Start Here"
+msgstr ""
+
+#. %d: Breakpoint number.
+#: ../hello-elementor/includes/settings/settings-header.php:431
+#, php-format
+msgid "Tablet (< %dpx)"
+msgstr ""
+
+#: ../hello-elementor/template-parts/single.php:25
+msgid "Tagged "
+msgstr "Tagged "
+
+#: ../hello-elementor/includes/settings/settings-header.php:62
+#: ../hello-elementor/includes/settings/settings-header.php:298
+#: ../hello-elementor/includes/settings/settings-footer.php:62
+#: ../hello-elementor/includes/settings/settings-footer.php:295
+msgid "Tagline"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:253
+#: ../hello-elementor/includes/settings/settings-header.php:315
+#: ../hello-elementor/includes/settings/settings-footer.php:250
+#: ../hello-elementor/includes/settings/settings-footer.php:305
+#: ../hello-elementor/includes/settings/settings-footer.php:440
+msgid "Text Color"
+msgstr ""
+
+#: ../hello-elementor/includes/admin-functions.php:140
+msgid "Thanks for installing Hello Theme!"
+msgstr "Thanks for installing Hello Theme!"
+
+#: ../hello-elementor/template-parts/404.php:15
+msgid "The page can&rsquo;t be found."
+msgstr "The page can&rsquo;t be found."
+
+#: ../hello-elementor/includes/settings/settings-header.php:379
+#: ../hello-elementor/includes/settings/settings-footer.php:362
+msgid "There are no menus in your site."
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:213
+#: ../hello-elementor/includes/settings/settings-footer.php:210
+msgid "Title"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:458
+msgid "Toggle Color"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:208
+#: ../hello-elementor/includes/settings/settings-footer.php:205
+msgid "Type"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:269
+#: ../hello-elementor/includes/settings/settings-header.php:330
+#: ../hello-elementor/includes/settings/settings-header.php:473
+#: ../hello-elementor/includes/settings/settings-footer.php:266
+#: ../hello-elementor/includes/settings/settings-footer.php:320
+#: ../hello-elementor/includes/settings/settings-footer.php:403
+#: ../hello-elementor/includes/settings/settings-footer.php:455
+msgid "Typography"
+msgstr ""
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:67
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:70
+msgid "Update Elementor"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:509
+#: ../hello-elementor/includes/settings/settings-footer.php:490
+msgid "Upgrade"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:508
+#: ../hello-elementor/includes/settings/settings-footer.php:489
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr ""
+
+#: ../hello-elementor/includes/elementor-functions.php:208
+#, php-format
+msgid ""
+"Use this experiment to design header and footer using Elementor Site "
+"Settings. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:99
+#: ../hello-elementor/includes/settings/settings-footer.php:113
+msgid "Width"
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:524
+#: ../hello-elementor/includes/settings/settings-footer.php:505
+msgid ""
+"With the new Theme Builder you can jump directly into each part of your site"
+msgstr ""
+
+#: ../hello-elementor/includes/customizer/elementor-upsell.php:68
+msgid ""
+"You need Elementor version 3.1.0 or above to create a cross-site Header and "
+"Footer."
+msgstr ""
+
+#: ../hello-elementor/includes/settings/settings-header.php:369
+#: ../hello-elementor/includes/settings/settings-footer.php:352
+msgid "— Select a Menu —"
+msgstr ""
